@@ -2,3 +2,6 @@
 input {
   background-color: $input-background-color;
 }
+.is-primary {
+  background-color: $purple !important;
+}
