@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # URL
 https://yousrak-hub.github.io/budget-app/
 # BudgetApp
